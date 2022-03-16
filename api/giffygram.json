@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "name": "Bryan",
+      "email": "bryan@bn.com",
+      "id": 1
+    },
+    {
+      "name": "Sippy",
+      "email": "Sippy@sc.com",
+      "id": 2
+    },
+    {
+      "name": "Jason",
+      "email": "Jason@js.com",
+      "id": 3
+    },
+    {
+      "name": "Adam",
+      "email": "Adam@aj.com",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 2,
+      "imageURL": "https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif",
+      "userId": 3,
+      "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+      "timestamp": 1561695022812,
+      "title": "Enhanced global utilisation"
+    },
+    {
+      "id": 3,
+      "imageURL": "https://media1.giphy.com/media/gZEBpuOkPuydi/200w.webp?cid=ecf05e47gprtcphfac0wzmkxyq38kil4gb1an8aotyv6e5nl&rid=200w.webp&ct=g",
+      "userId": 1,
+      "description": "Flying High for Spring.",
+      "timestamp": 1561695022812,
+      "title": "Dreaming of Springtime"
+    },
+    {
+      "id": 4,
+      "imageURL": "https://media4.giphy.com/media/IpXg8GcqXlQXu/giphy.webp?cid=ecf05e47n9hizyxky2oy9fumi8k2ketuzuqyhqtnszr4locr&rid=giphy.webp&ct=g",
+      "userId": 1,
+      "description": "Fluffy Bear Giving Free Bear Hugs",
+      "timestamp": 1561695022812,
+      "title": "Free Bear Hugs"
+    },
+    {
+      "imageURL": "https://media.giphy.com/media/e8BnjZbxhhMHEFdrAF/giphy.gif",
+      "userId": 3,
+      "description": "Butterfly on sunflower",
+      "timestamp": 1561695022812,
+      "title": "Love Butterflies and Sunflowers",
+      "id": 7
+    },
+    {
+      "imageURL": "https://giphy.com/clips/justin-lol-laughing-minions-CJyRX8btFziYLt3WAT",
+      "userId": 4,
+      "description": "Minions Laughing",
+      "timestamp": 1561695022812,
+      "title": "Three Minions Laughing",
+      "id": 8
+    },
+    {
+      "imageURL": "https://media.giphy.com/media/ZO9mIw6Tlb62FDh6Ag/giphy.gif",
+      "userId": 4,
+      "description": "Laughing",
+      "timestamp": 1561695022812,
+      "title": "Laughing so hard belly aches",
+      "id": 9
+    }
+  ],
+  "messages": [],
+  "likes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "postId": 2
+    }
+  ]
+}
